@@ -15,3 +15,10 @@
 ##### Encabezado 5
 ###### Encabezado 6
 > esto es una cita de texto
+`esto es un bloque de codigo`
+
+~~~
+esto es un bloque de codigo
+de varias lineas
+asdfasdf
+~~~
